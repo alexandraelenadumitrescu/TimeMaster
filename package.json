@@ -1,0 +1,27 @@
+{
+  "name": "timemaster",
+  "version": "1.0.0",
+  "description": "aplicatie de tip widget pentru vizualizarea orarului",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+   
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandraelenadumitrescu/TimeMaster.git"
+  },
+  "keywords": [
+    "orar"
+  ],
+  "author": "alexandra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexandraelenadumitrescu/TimeMaster/issues"
+  },
+  "homepage": "https://github.com/alexandraelenadumitrescu/TimeMaster#readme",
+  "devDependencies": {
+    "electron": "^32.1.2"
+  }
+}
