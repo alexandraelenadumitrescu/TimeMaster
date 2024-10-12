@@ -1,0 +1,1 @@
+TimeMaster is a time management application designed to help users efficiently track and organize their tasks. Built with Electron, this project explores the creation of a desktop application with features such as task creation, deadlines, and reminders. The project is continually evolving, with plans to enhance its functionality and user experience. 
